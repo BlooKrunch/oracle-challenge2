@@ -1,7 +1,7 @@
 # <hi align="center"> Conversor #Challenge-Oracle-One </h1>
 
  <p align="left">
-   <img src="https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green">
+   <img src="https://img.shields.io/badge/STATUS-v1.0-green">
    </p>
 
 Conversor de divisas, longitudes y temperatura utilizando OOP para facilitar la integración de nuevas entidades convertibles.
